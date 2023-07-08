@@ -72,7 +72,7 @@ console.log(genericFunction(12, 10.5, 'as-number'));
 console.log(genericFunction('10', '20', 'as-number'));
 console.log(genericFunction('Ashiq', 'Hussain', 'as-string'));
 
-// ALIASES
+// Custom types
 
 type Combinable = number | string;
 let age: number | string;
